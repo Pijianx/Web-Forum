@@ -1,0 +1,15 @@
+SMAP
+display_005femail_005fentry_jsp.java
+JSP
+*S JSP
+*F
++ 0 display_email_entry.jsp
+display_email_entry.jsp
+*L
+5,14:44
+19:58,2
+20:60,10
+21,5:70
+26:75,2
+27,14:77
+*E

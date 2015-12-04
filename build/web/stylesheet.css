@@ -1,0 +1,162 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 1, 2014, 12:38:28 AM
+    Author     : derrick
+*/
+#art{
+    font-family: Courier;
+    color: #CC0000;
+    
+}  
+
+#head{
+    font-family: Courier;
+    color: #CC0000;
+    font-size: 26px;
+}
+#writing{
+    font-family: Courier;
+}
+#color{
+    color: #CC0000;
+}
+
+#test1{
+    color:#CC0000;
+    font-family: verdana;
+    font-size: 300%;
+}
+#test2{
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+
+body {
+	background-color: #b7d1c4
+}
+img {
+	height: 170px;
+	width: 1325px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+        position: fixed; //try absolute too
+
+}
+#new {
+	font-family: Verdana;
+        //font-family: Garamond, serif;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+        font-size: 110%;
+}
+#new1 {
+	//font-family: Verdana;
+        font-family: Garamond, serif;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+        font-size: 260%;
+        border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+}
+
+#header {
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+#tweet {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+        text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+#tweet2 {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 30px;
+	width: 120px;
+	margin: auto;
+	text-align: left;
+        text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+#tweet3 {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 90px;
+	width: 360px;
+	margin: auto;
+	text-align: center;
+        text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+#link{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	//text-align: center;
+        text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+#center {
+	//border-radius: 5px;
+	//border: 2px solid #6495ED;
+	//background-color: #BCD2EE;
+	//height: 50px;
+	//width: 120px;
+	//margin: auto;
+	text-align: center;
+        //text-decoration: none;
+	//color: #3D59AB;
+	//font-family: Verdana, sans-serif;
+}
+#mew{
+	//border-radius: 5px;
+	//border: 2px solid #6495ED;
+	//background-color: #BCD2EE;
+	//height: 50px;
+	//width: 120px;
+	//margin: auto;
+	text-align: center;
+        //text-decoration: none;
+	color: #3D59AB;
+	//font-family: Verdana, sans-serif;
+        font-size: 160%;
+}
+
+#pad{
+    padding-left: 200px;
+    font-size: 160%;
+    
+}
+#lettering{
+    
+    color: #6495ED;
+}
